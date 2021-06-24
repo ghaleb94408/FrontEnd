@@ -1,0 +1,119 @@
+/*nav bar*/
+body{
+    font-size: 16px;
+}
+h1{
+    text-align: center;
+    color: hsl(228, 39%, 23%);;
+}
+.nav-link{
+    width: 6.25rem;
+}
+.nav-btn
+{
+    padding: 0;
+    font-size: 1rem;
+    color:#fff;
+    margin: 0;
+    width: 103px;
+    background-color: hsl(12, 88%, 59%);
+    border-radius: 28px;
+}
+.nav-li{
+    margin-left: 40%;
+}
+/*top-container*/
+.top-column{
+    padding: 0;
+    margin: 5% 0;
+    text-align: left;
+    
+}
+.top-column h1,h2{
+    color: hsl(228, 39%, 23%);
+    text-align: left;
+}
+.top-btn{
+    padding: 0;
+    font-size: 1rem;
+    color:#fff;
+    margin-top: 10%;
+    width: 103px;
+    background-color: hsl(12, 88%, 59%);
+    border-radius: 28px;
+}
+.top-column p{
+    
+}
+.btm-col{
+    text-align: center;
+    margin-top: 8%; 
+    padding:0 4%;
+}
+.h1-row{
+    margin-bottom: 0;
+}
+.end-btn{
+    margin:0;
+    padding: 0;
+    font-size: 1rem;
+    color:#fff;
+    width: 103px;
+    background-color: hsl(12, 88%, 59%);
+    border-radius: 28px;
+    display: inline;
+}
+.btn-col{
+    padding: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 15%;
+}
+.final-row{
+    background-color: hsl(12, 88%, 59%);
+    color: #fff;
+    text-align: left;
+    padding: 5%;
+}
+.final-row h1{
+    background-color: hsl(12, 88%, 59%);
+    color: #fff;
+    text-align: left;
+}
+.final-btn{
+    color: hsl(12, 88%, 59%);
+    background-color: #fff;
+    margin:0;
+    padding: 0;
+    font-size: 1rem;
+    width: 103px;
+    border-radius: 28px;
+}
+.mar-end{
+    background-color: hsl(233, 12%, 13%);
+    padding:5%;
+    color:#fff
+}
+#logo{
+    margin-bottom: 25%;
+}
+.ser-btn{
+    background-color: hsl(12, 88%, 59%);
+    color: #fff;
+    margin:0;
+    padding: 0;
+    font-size: 1rem;
+    width: 103px;
+    border-radius: 28px;
+}
+.ser-x{
+    height: 3rem;
+    width: 100%;
+    border-radius:28px;
+}
+.mar-end a{
+    color:#fff;
+}
+.txt-mr{
+    margin-top: 25%;
+}
